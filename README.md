@@ -6,7 +6,7 @@
 ## About Me :
 - 🔭 I’m currently working as a Senior Full-stack Software Engineer at [Civi](https://www.civiapp.co/)
 - 🌱 I’m currently learning Web development, more specifically Golang and React
-- 🏡 I'm Live in **Brazil** but I want to move to another country to new experiences
+- 🏡 I Live in **Brazil** but I want to move to another country for new experiences
 - 💬 Ask me about Golang, Vuejs, React, JavaScript
 
 
