@@ -4,7 +4,7 @@
 <br>
 
 ## About Me :
-- 🔭 I’m currently working as a Senior Full-stack Software Engineer at [Civi](https://www.civiapp.co/)
+- 🔭 I’m currently working as a Senior Software Engineer at [Conta Azul](https://ca.contaazul.com/)
 - 🌱 I’m currently learning Web development, more specifically Golang and React
 - 🏡 I Live in **Brazil** but I want to move to another country for new experiences
 - 🧠 I'm studying now about Kubernetes, Cloud, and Golang.
