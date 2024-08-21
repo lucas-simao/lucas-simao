@@ -4,7 +4,7 @@
 <br>
 
 ## About Me :
-- 🔭 I’m currently working as a Senior Software Engineer at [Conta Azul](https://ca.contaazul.com/)
+- 🔭 I’m currently working as a Senior Software Engineer
 - 🌱 I’m currently learning Web development, more specifically Golang and React
 - 🏡 I Live in **Brazil**
 - 🧠 I'm studying now about Kubernetes, Cloud, and Golang.
