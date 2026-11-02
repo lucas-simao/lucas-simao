@@ -3,7 +3,7 @@
 **Senior Full-Stack Software Engineer** · Go · TypeScript · React · Vue · Cloud  
 Based in Brazil 🇧🇷 · Working remotely with US teams
 
-I build web products end to end — from the API and the database to the interface and the infrastructure that runs it. Today I work with [Robotic Imaging](https://github.com/RoboticImaging) through my company, **LTS Technology**, and I'm building my own SaaS on the side.
+I build web products end to end — from the API and the database to the interface and the infrastructure that runs it. Today I work with [Robotic Imaging](https://github.com/RoboticImaging) through my company, **LTS Technology**, and I'm building my own SaaS products on the side.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-simao/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lucas.simao01@gmail.com)
@@ -13,6 +13,8 @@ I build web products end to end — from the API and the database to the interfa
 ### 🚀 What I'm working on
 
 - **[Sheetpin](https://sheetpin.com)** — a web app for working with technical PDFs (drawings, floor plans), built for construction and fabrication teams.
+- **[Careclin](https://careclin.com.br)** — a white-label patient follow-up platform for health and beauty clinics in Brazil, replacing scattered WhatsApp threads with a proper portal (PWA with push notifications, signed forms, social login).
+- **[Overtime Invoices](https://github.com/lucas-simao/overtime-invoices)** — an open-source, in-browser tool that turns monthly overtime notes into an invoice PDF, a breakdown PDF and the email text. Everything runs locally; nothing is sent to a server.
 - **Software engineering at Robotic Imaging** — full-stack development as a long-term contractor.
 
 ### 🛠️ Tech I use
@@ -39,6 +41,7 @@ I build web products end to end — from the API and the database to the interfa
 
 | Repo | What it shows |
 | --- | --- |
+| [overtime-invoices](https://github.com/lucas-simao/overtime-invoices) | Local-first invoice generator (PDF + email text), Tailwind |
 | [ddd-go](https://github.com/lucas-simao/ddd-go) | REST API in Go structured with Domain-Driven Design |
 | [go-http](https://github.com/lucas-simao/go-http) | HTTP services with Go's standard `net/http` |
 | [go-async](https://github.com/lucas-simao/go-async) | Concurrency patterns in Go |
