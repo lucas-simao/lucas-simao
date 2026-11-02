@@ -14,7 +14,6 @@ I build web products end to end — from the API and the database to the interfa
 
 - **[Sheetpin](https://sheetpin.com)** — a web app for working with technical PDFs (drawings, floor plans), built for construction and fabrication teams.
 - **[Careclin](https://careclin.com.br)** — a white-label patient follow-up platform for health and beauty clinics in Brazil, replacing scattered WhatsApp threads with a proper portal (PWA with push notifications, signed forms, social login).
-- **[Overtime Invoices](https://github.com/lucas-simao/overtime-invoices)** — an open-source, in-browser tool that turns monthly overtime notes into an invoice PDF, a breakdown PDF and the email text. Everything runs locally; nothing is sent to a server.
 - **Software engineering at Robotic Imaging** — full-stack development as a long-term contractor.
 
 ### 🛠️ Tech I use
@@ -41,7 +40,7 @@ I build web products end to end — from the API and the database to the interfa
 
 | Repo | What it shows |
 | --- | --- |
-| [overtime-invoices](https://github.com/lucas-simao/overtime-invoices) | Local-first invoice generator (PDF + email text), Tailwind |
+| [overtime-invoices](https://github.com/lucas-simao/overtime-invoices) | In-browser tool that turns monthly overtime notes into an invoice PDF, a breakdown PDF and the email text — runs 100% locally |
 | [ddd-go](https://github.com/lucas-simao/ddd-go) | REST API in Go structured with Domain-Driven Design |
 | [go-http](https://github.com/lucas-simao/go-http) | HTTP services with Go's standard `net/http` |
 | [go-async](https://github.com/lucas-simao/go-async) | Concurrency patterns in Go |
