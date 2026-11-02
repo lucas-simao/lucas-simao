@@ -1,86 +1,56 @@
+# Hi, I'm Lucas Simão 👋
 
-<h1 align="center"><b>Hi , I'm Lucas Simão</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+**Senior Full-Stack Software Engineer** · Go · TypeScript · React · Vue · Cloud  
+Based in Brazil 🇧🇷 · Working remotely with US teams
 
-<br>
+I build web products end to end — from the API and the database to the interface and the infrastructure that runs it. Today I work with [Robotic Imaging](https://github.com/RoboticImaging) through my company, **LTS Technology**, and I'm building my own SaaS on the side.
 
-## About Me :
-- 🔭 I’m currently working as a Senior Software Engineer
-- 🌱 I’m currently learning Web development, more specifically Golang and React
-- 🏡 I Live in **Brazil**
-- 🧠 I'm studying now about Golang, React and Cloud services.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-simao/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lucas.simao01@gmail.com)
 
+---
 
-<br>
+### 🚀 What I'm working on
 
-## Connect with me ☕ :
+- **[Sheetpin](https://sheetpin.com)** — a web app for working with technical PDFs (drawings, floor plans), built for construction and fabrication teams.
+- **Software engineering at Robotic Imaging** — full-stack development as a long-term contractor.
 
-<br>
+### 🛠️ Tech I use
 
-[![@lucas.simao01](https://img.icons8.com/fluency/48/000000/instagram-new.png "@lucas.simao01")](https://www.instagram.com/lucas.simao01/)
-[![@lucas.simao01](https://img.icons8.com/fluency/48/000000/facebook.png "@lucas.simao01")](https://www.facebook.com/lucas.simao01) 
-[![@lucas-simao](https://img.icons8.com/fluency/48/000000/linkedin.png "@lucas-simao")](https://www.linkedin.com/in/lucas-simao/) 
-<a href="mailto:lucas.simao01@gmail.com">
-  <img src="https://img.icons8.com/fluency/48/000000/gmail.png"/>
-</a>
+**Backend:** Go, Node.js, REST APIs, DDD  
+**Frontend:** TypeScript, React, Vue.js, HTML/CSS  
+**Data:** PostgreSQL, MySQL  
+**Infra & DevOps:** Docker, Kubernetes, AWS, Google Cloud, Cloudflare, Terraform/OpenTofu, Linux
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+### 📌 Some public repos
 
- <a href="https://github.com/lucas-simao/api-tasks" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<a />
-
-<a href="https://github.com/lucas-simao/react-redux-toolkit" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<a />
-
-<a href="https://github.com/lucas-simao/react-typescript" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<a />
-
-<a href="https://github.com/lucas-simao/vue-basic" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-<a />
-
-<a href="https://github.com/lucas-simao/react-typescript" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<a />
-
-<a href="https://github.com/lucas-simao/react-typescript" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<a />
-
-<a href="https://github.com/lucas-simao/react-typescript" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<a />
-
-<a href="https://github.com/lucas-simao/docker-squid-proxy" target="_blank" rel="noopener noreferrer">
-<img
-  src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<a />
-
-![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-
-  
-<br>
-<br>
-<br>
-  
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-<br>
-  
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=lucas-simao&show_icons=true&theme=algolia) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucas-simao&theme=algolia) |
+| Repo | What it shows |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-simao&theme=algolia) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=lucas-simao&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) |
+| [ddd-go](https://github.com/lucas-simao/ddd-go) | REST API in Go structured with Domain-Driven Design |
+| [go-http](https://github.com/lucas-simao/go-http) | HTTP services with Go's standard `net/http` |
+| [go-async](https://github.com/lucas-simao/go-async) | Concurrency patterns in Go |
+| [kubernetes](https://github.com/lucas-simao/kubernetes) | Deploying Go services on Kubernetes |
+| [react-typescript](https://github.com/lucas-simao/react-typescript) | React + TypeScript front-end |
 
-<br>
+### 🎓 Education
 
-## GitHub Thropies 🏆 :
+- B.Sc. in Information Systems
+- Postgraduate in Communication Networks
+- Postgraduate in Full Cycle Development
 
-<br>
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lucas-simao)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
-
+🌎 Portuguese (native) · English · Open to conversations about remote roles and contract work.
