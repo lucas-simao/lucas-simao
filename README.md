@@ -3,7 +3,7 @@
 **Senior Full-Stack Software Engineer** · Go · TypeScript · React · Vue · Cloud  
 Based in Brazil 🇧🇷 · Working remotely with US teams
 
-I build web products end to end — from the API and the database to the interface and the infrastructure that runs it. Today I work with **Robotic Imaging** through my company, **LTS Technology**, and I'm building my own SaaS products on the side.
+I build web products end to end — from the API and the database to the interface and the infrastructure that runs it. Today I work with [Robotic Imaging](https://github.com/RoboticImagingAI) through my company, **LTS Technology**, and I'm building my own SaaS products on the side.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-simao/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lucas.simao01@gmail.com)
