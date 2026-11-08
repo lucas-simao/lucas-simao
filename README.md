@@ -40,6 +40,7 @@ I build web products end to end — from the API and the database to the interfa
 
 | Repo | What it shows |
 | --- | --- |
+| [kudocoin](https://github.com/lucas-simao/kudocoin) | A playful coin for teams to thank each other, with leaderboards and seasons — Cloudflare Workers + Firestore + React, free to [play online](https://kudocoin.pages.dev/) |
 | [overtime-invoices](https://github.com/lucas-simao/overtime-invoices) | In-browser tool that turns monthly overtime notes into an invoice PDF, a breakdown PDF and the email text — runs 100% locally |
 | [ddd-go](https://github.com/lucas-simao/ddd-go) | REST API in Go structured with Domain-Driven Design |
 | [go-http](https://github.com/lucas-simao/go-http) | HTTP services with Go's standard `net/http` |
